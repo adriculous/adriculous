@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! I'm a nerdette of many trades. Nice to meet you! 👋
 
 <!--
 **adriculous/adriculous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
