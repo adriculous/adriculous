@@ -17,7 +17,7 @@ and the art of vibes.
 
 ## 🔮 COMING SOON...
 - **ADRIANNE.me** - *My future link in bio and site collective hub*
-- **Forks @ ADRIANNE.io** - *Code experiments, such as updated free PHP scripts (just like in the old days), WordPress plugins, Hugo modules, etc.
+- **Forks @ ADRIANNE.io** - *Code experiments, such as updated free PHP scripts (just like in the old days), WordPress plugins, Hugo modules, etc.*
 - **ADRIANNE CODES** - *Yes, it's still a redirection to my Hashnode blog, but it will become a new web dev portfolio soon*
 - **ADRI MARS STUDIO** - *My new upcoming art portfolio and hub. Other than my artwork, it will also contain freebies, such as free sozai graphics, free patterns, free font downloads, and more!*
 - **STARMIN BLOG** - *A remake of my old HOLOSTARS fan blog, Starpura Space*
