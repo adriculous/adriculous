@@ -15,4 +15,4 @@ and the art of vibes.
 
 ---
 
-<a href="https://app.daily.dev/adriculous"><img src="./devcard.png" width="356" alt="Adrianne's Dev Card"/></a>
+<a href="https://app.daily.dev/adriculous"><img src="https://api.daily.dev/devcards/v2/ytqdgvaxctQuJyE15yNRq.png?type=wide&r=n4f" width="652" alt="Adrianne Padua's Dev Card"/></a>
