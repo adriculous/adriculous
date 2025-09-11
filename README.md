@@ -9,9 +9,9 @@ and the art of vibes.
 
 ## 🌐 My Web Galaxy
 
-- 🧭 [index.adrianne](https://adrianne.me) - *Link-in-bio page* (✨ NEW ✨)*
+- 🧭 [index.adrianne](https://adrianne.me) - *Link-in-bio page* (✨ NEW ✨)
 - 📊 [`ADRIANNE.io`](https://adrianne.io) – *Legacy Data Analytics Portfolio (to be converted to a portfolio hub)*
-- 🤖 [Prompted by Adrianne](https://ai.adrianne.io) – *AI Prompt Engineering Portfolio   
+- 🤖 [Prompted by Adrianne](https://ai.adrianne.io) – *AI Prompt Engineering Portfolio*   
 - 📝 [ADRIANNE'S SPACE](https://adrianne.space) – *Personal blog with random thoughts & other musings*
 
 ---
