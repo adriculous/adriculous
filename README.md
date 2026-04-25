@@ -13,16 +13,17 @@ and the art of vibes.
 - 🪟 [Portal by Adrianne](https://adrianne.io) – *Portfolio Hub* (✨ NEW ✨)
 - 📊 [Patterned by Adrianne](https://data.adrianne.io) - *Data Analytics Portfolio* (✨ NEW ✨)
 - 🤖 [Prompted by Adrianne](https://ai.adrianne.io) – *AI Prompt Engineering Portfolio*   
-- 📝 [ADRIANNE'S SPACE](https://adrianne.space) – *Personal blog with random thoughts & other musings*
+- 📝 [Adrianne's Blog](https://adrianne.blog) – *Personal blog with random thoughts & other musings*
+- 👩🏻‍💻 [Adrianne Codes](https://adrianne.codes) - *Rebuilt coding/dev and technical writing portfolio*
 
 ---
 
 ## 🔮 COMING SOON...
 - **Forks @ ADRIANNE.io** - *Code experiments, such as updated free PHP scripts (just like in the old days), WordPress plugins, Hugo modules, etc.*
-- **ADRIANNE CODES** - *Hashnode Blog to become a hobbyist web tutorial soon*
 - **ADRI MARS STUDIO** - *My new upcoming art portfolio and hub. Other than my artwork, it will also contain freebies, such as free sozai graphics, free patterns, free font downloads, and more!*
 - **STARMIN BLOG** - *A remake of my old HOLOSTARS fan blog, Starpura Space*
 - **CHIKA WOTA BLOG** - *My old and abandoned (underground) J-Pop fan blog. Converting it into a message board may be more ideal, but still in the works*
+- **The NINPOJineous Reads** - *reviews and analysis of short stories, anthologies, articles, and occasional novels*
 
 ---
 
