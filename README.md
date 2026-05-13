@@ -1,4 +1,4 @@
-## Hello! I'm a nerdette of many trades. Nice to meet you! 👋
+## Hello! I'm an almost middle-aged nerdette of many trades. Nice to meet you! 👋
 
 I like to dabble with art:  
 the art of coding,  
@@ -19,8 +19,9 @@ and the art of vibes.
 ---
 
 ## 🔮 COMING SOON...
-- **Forks @ ADRIANNE.io** - *Code experiments, such as updated free PHP scripts (just like in the old days), WordPress plugins, Hugo modules, etc.*
-- **ADRI MARS STUDIO** - *My new upcoming art portfolio and hub. Other than my artwork, it will also contain freebies, such as free sozai graphics, free patterns, free font downloads, and more!*
+- **FORKS** - *Code experiments, such as updated free PHP scripts (just like in the old days), WordPress plugins, Hugo modules, free themes, etc.*
+- **ADRI MARS STUDIO** - *Graphics, sozai, digital graphic/art tutorials, etc.*
+- **ADRI MARS ART** - *A gallery of my favorite (digital) artwork*
 - **STARMIN BLOG** - *A remake of my old HOLOSTARS fan blog, Starpura Space*
 - **CHIKA WOTA BLOG** - *My old and abandoned (underground) J-Pop fan blog. Converting it into a message board may be more ideal, but still in the works*
 - **The NINPOJineous Reads** - *reviews and analysis of short stories, anthologies, articles, and occasional novels*
@@ -30,5 +31,5 @@ and the art of vibes.
 ## 📚 DAILY DEV CARD
 
 <div align="center">
-  <a href="https://app.daily.dev/adriculous"><img     src="https://api.daily.dev/devcards/v2/ytqdgvaxctQuJyE15yNRq.png?type=wide&r=n4f" width="652" alt="Adrianne Padua's Dev Card"/></a>
+  <a href="https://app.daily.dev/adriculous"><img src="https://api.daily.dev/devcards/v2/ytqdgvaxctQuJyE15yNRq.png?type=wide&r=n4f" width="652" alt="Adrianne Padua's Dev Card"/></a>
 </div>
